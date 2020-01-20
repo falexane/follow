@@ -1,8 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
 import * as serviceWorker from './serviceWorker';
+// import App from './movie/App';
+// import App from './datePicker/App';
+// import App from './firebase/App';
+import App from './swipeableButton/App';
 
 ReactDOM.render(<App />, document.getElementById('root'));
 

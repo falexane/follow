@@ -1,0 +1,3 @@
+https://medium.com/swlh/this-is-how-to-use-the-react-context-api-with-hooks-for-a-clean-code-architecture-2019-e66662ec7ab8
+
+with a plenty of mistakes!, in the article

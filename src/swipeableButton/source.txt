@@ -1,0 +1,1 @@
+https://medium.com/better-programming/how-to-create-a-swipeable-button-in-javascript-react-c8d1214a0c20
